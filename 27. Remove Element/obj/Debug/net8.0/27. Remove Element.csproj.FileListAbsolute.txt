@@ -1,0 +1,5 @@
+C:\Users\jaybg\Documents\GitHub\LeetCode\27. Remove Element\obj\Debug\net8.0\27. Remove Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaybg\Documents\GitHub\LeetCode\27. Remove Element\obj\Debug\net8.0\27. Remove Element.AssemblyInfoInputs.cache
+C:\Users\jaybg\Documents\GitHub\LeetCode\27. Remove Element\obj\Debug\net8.0\27. Remove Element.AssemblyInfo.cs
+C:\Users\jaybg\Documents\GitHub\LeetCode\27. Remove Element\obj\Debug\net8.0\27. Remove Element.csproj.CoreCompileInputs.cache
+C:\Users\jaybg\Documents\GitHub\LeetCode\27. Remove Element\obj\Debug\net8.0\27. Remove Element.sourcelink.json
