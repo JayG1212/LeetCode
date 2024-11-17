@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaybg\\Desktop\\LeetCode\\66. Plus One\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02FF4A39-938F-491A-9BE7-D3DC50D04479}|66. Plus One\\66. Plus One.csproj|c:\\users\\jaybg\\desktop\\leetcode\\66. plus one\\66. plus one\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FF4A39-938F-491A-9BE7-D3DC50D04479}|66. Plus One\\66. Plus One.csproj|solutionrelative:66. plus one\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FF4A39-938F-491A-9BE7-D3DC50D04479}|66. Plus One\\66. Plus One.csproj|c:\\users\\jaybg\\desktop\\leetcode\\66. plus one\\66. plus one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02FF4A39-938F-491A-9BE7-D3DC50D04479}|66. Plus One\\66. Plus One.csproj|solutionrelative:66. plus one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaybg\\Desktop\\LeetCode\\66. Plus One\\66. Plus One\\Program.cs",
+              "RelativeDocumentMoniker": "66. Plus One\\Program.cs",
+              "ToolTip": "C:\\Users\\jaybg\\Desktop\\LeetCode\\66. Plus One\\66. Plus One\\Program.cs",
+              "RelativeToolTip": "66. Plus One\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:18:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\jaybg\\Desktop\\LeetCode\\66. Plus One\\66. Plus One\\Solution.cs",
+              "RelativeDocumentMoniker": "66. Plus One\\Solution.cs",
+              "ToolTip": "C:\\Users\\jaybg\\Desktop\\LeetCode\\66. Plus One\\66. Plus One\\Solution.cs",
+              "RelativeToolTip": "66. Plus One\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T00:18:50.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
