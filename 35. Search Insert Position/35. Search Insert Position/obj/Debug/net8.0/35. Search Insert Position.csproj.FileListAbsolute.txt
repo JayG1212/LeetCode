@@ -1,0 +1,15 @@
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.exe
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.deps.json
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.runtimeconfig.json
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.dll
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\bin\Debug\net8.0\35. Search Insert Position.pdb
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.AssemblyInfoInputs.cache
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.AssemblyInfo.cs
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.csproj.CoreCompileInputs.cache
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.sourcelink.json
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.dll
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\refint\35. Search Insert Position.dll
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.pdb
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\35. Search Insert Position.genruntimeconfig.cache
+C:\Users\jaybg\Documents\GitHub\LeetCode\35. Search Insert Position\35. Search Insert Position\obj\Debug\net8.0\ref\35. Search Insert Position.dll
