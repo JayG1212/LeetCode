@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaybg\\Desktop\\LeetCode\\704. Binary Search\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3867FA-1C61-4281-A5AF-1193FAAF93F9}|704. Binary Search\\704. Binary Search.csproj|c:\\users\\jaybg\\desktop\\leetcode\\704. binary search\\704. binary search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA3867FA-1C61-4281-A5AF-1193FAAF93F9}|704. Binary Search\\704. Binary Search.csproj|solutionrelative:704. binary search\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaybg\\Desktop\\LeetCode\\704. Binary Search\\704. Binary Search\\Program.cs",
+              "RelativeDocumentMoniker": "704. Binary Search\\Program.cs",
+              "ToolTip": "C:\\Users\\jaybg\\Desktop\\LeetCode\\704. Binary Search\\704. Binary Search\\Program.cs",
+              "RelativeToolTip": "704. Binary Search\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:31:50.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
