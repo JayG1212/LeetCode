@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaybg\\Desktop\\LeetCode\\1941. Check if All CHaracters Have Equal Number of Occurences\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3189013-C5F0-4437-A9BC-962594ECA69C}|1941. Check if All CHaracters Have Equal Number of Occurences.csproj|c:\\users\\jaybg\\desktop\\leetcode\\1941. check if all characters have equal number of occurences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3189013-C5F0-4437-A9BC-962594ECA69C}|1941. Check if All CHaracters Have Equal Number of Occurences.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaybg\\Desktop\\LeetCode\\1941. Check if All CHaracters Have Equal Number of Occurences\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jaybg\\Desktop\\LeetCode\\1941. Check if All CHaracters Have Equal Number of Occurences\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:02:22.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
